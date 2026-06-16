@@ -1,0 +1,6 @@
+.env 
+__pycache__/ 
+*.pyc 
+newsbot_chroma/ 
+*.json 
+*.txt 
