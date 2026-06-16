@@ -3,4 +3,4 @@ __pycache__/
 *.pyc 
 newsbot_chroma/ 
 *.json 
-*.txt 
+fetch_log_*.txt 
